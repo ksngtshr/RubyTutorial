@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+
+100.times {
+  puts 'HelloWorld'
+}
